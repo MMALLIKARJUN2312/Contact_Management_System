@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Uploaded files
+/public/uploads/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Build output
+dist/
+build/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+*.swp
+*~
