@@ -474,28 +474,6 @@ token:  <ngrok_token>
 }
 ```
 
----
-
-### 6. Add a Contact
-
-**Endpoint**: `POST /add`
-**Description**: Adds a new contact for the authenticated user.
-
-**Authorization**: Bearer <token>
-
-**Request Body**:
-
-```json
-
-```
-
-**Response**:
-
-```json
-```
-
----
-
 ### 6. Add a Contact
 
 **Endpoint**: `POST /add`
